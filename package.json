@@ -1,0 +1,29 @@
+{
+  "name": "taseca-landing",
+  "version": "1.0.0",
+  "description": "Landing page for TASECA - The All-Seeing Eye Consulting Analytics",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'No build required. Open index.html in your browser.'"
+  },
+  "keywords": [
+    "landing-page",
+    "taseca",
+    "consulting",
+    "neon",
+    "responsive"
+  ],
+  "author": "Andrés Barón",
+  "email": "baronandres.300@gmail.com",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/taseca-landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/taseca-landing/issues"
+  },
+  "homepage": "https://taseca.tech"
+}
